@@ -8,10 +8,10 @@
    ![Angular](https://img.shields.io/badge/Angular-AngularJS%2FTypescript-red)
    ![C#](https://img.shields.io/badge/C%23-.NET-blue)
    ![CSS](https://img.shields.io/badge/CSS-Style-blue)
+   ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-Kibana-yellowgreen)
    ![HTML](https://img.shields.io/badge/HTML-Tag-yellow)
    ![SASS](https://img.shields.io/badge/SASS-Syntatically%20Awesome%20Style%20Sheets-green)
-   ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
-   ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-Kibana-yellowgreen)
+   ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)  
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/React-Redux-blueviolet) and ![Vue](https://img.shields.io/badge/Vue-Vue.js-9cf) on the side..
 - 📫 How to reach me via email or my portfolio website.
 - ⚡ Fun fact: I love Legion and Mr. Robot.
