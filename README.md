@@ -16,4 +16,4 @@
 
 
 - :tv: Favorite shows: :crystal_ball:Legion :computer:Mr. Robot and :ghost: Penny Dreadful
-- :sparkler: Hobbies: :octocat:Coding :ramen:Cooking :video_game:Gaming :art:Graphic design :computer:PC Modding :guitar:Playing music :running:Running
+- :sparkler: Hobbies: :octocat:Coding :ramen:Cooking :video_game:Gaming :art:Graphic design :computer:PC Modding :guitar:Playing music :running:Running :two_hearts:Volunteering
