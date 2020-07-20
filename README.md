@@ -7,7 +7,6 @@
 - 🔭 I’m currently working with: 
    ![Angular](https://img.shields.io/badge/Angular-AngularJS%2FTypescript-red)
    ![C#](https://img.shields.io/badge/C%23-.NET-blue)
-   ![CSS](https://img.shields.io/badge/CSS-Style-blue)
    ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-Kibana-yellowgreen)
    ![HTML](https://img.shields.io/badge/HTML-Tag-yellow)
    ![SASS](https://img.shields.io/badge/SASS-Syntatically%20Awesome%20Style%20Sheets-green)
@@ -17,5 +16,5 @@
 :envelope:<a href="mailto:kate.c.soliven@gmail.com">Email</a> or my 
 :briefcase:<a href="https://www.katedevdc.com">Portfolio</a>.
 - ⚡ Fun fact:
-:crystal_ball: I love Legion and 
+ I love :crystal_ball:Legion and 
 :computer:Mr. Robot.
