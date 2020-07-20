@@ -13,5 +13,9 @@
    ![SASS](https://img.shields.io/badge/SASS-Syntatically%20Awesome%20Style%20Sheets-green)
    ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)  
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/React-Redux-blueviolet) and ![Vue](https://img.shields.io/badge/Vue-Vue.js-9cf) on the side..
-- 📫 How to reach me via email or my portfolio website.
-- ⚡ Fun fact: I love Legion and Mr. Robot.
+- 📫 How to reach me via 
+:envelope:<a href="mailto:kate.c.soliven@gmail.com">Email</a> or my 
+:briefcase:<a href="https://www.katedevdc.com">Portfolio</a>.
+- ⚡ Fun fact:
+:crystal_ball: I love Legion and 
+:computer:Mr. Robot.
