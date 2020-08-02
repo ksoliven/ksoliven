@@ -6,6 +6,7 @@
   
 - 🔭 I’m currently working with: 
    ![Angular](https://img.shields.io/badge/Angular-AngularJS%2FTypescript-red)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-Bootstrap-ff69b4)
    ![C#](https://img.shields.io/badge/C%23-.NET-blue)
    ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-Kibana-yellowgreen)
    ![HTML](https://img.shields.io/badge/HTML-Tag-yellow)
