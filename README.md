@@ -15,7 +15,6 @@
 
   :envelope:<a href="mailto:kate.c.soliven@gmail.com">Email</a> or my :briefcase:<a href="https://www.katedevdc.com">Portfolio</a>.
 
-<b>Fun facts:</b>
-- :tv: Favorite shows: :crystal_ball:Legion :computer:Mr. Robot and :ghost: Penny Dreadful
-- :sparkler: Hobbies: :octocat:Coding :ramen:Cooking :video_game:Gaming :art:Graphic design :computer:PC Modding :guitar:Playing music :running:Running :two_hearts:Volunteering
-- 🌱 I’m currently learning [<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">](https://vuejs.org/) on the side..
+- :tv: <b>Favorite shows:</b> :crystal_ball:Legion :computer:Mr. Robot and :ghost: Penny Dreadful
+- :sparkler: <b>Hobbies:</b> :octocat:Coding :ramen:Cooking :video_game:Gaming :art:Graphic design :computer:PC Modding :guitar:Playing music :running:Running :two_hearts:Volunteering
+
