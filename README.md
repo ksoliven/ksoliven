@@ -3,7 +3,6 @@
 
 <!--
 **ksoliven/ksoliven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-  <img src="https://i.ibb.co/HgzKSDN/banner2.png">
   
 🔭 <b>I’m currently working with: </b>
 
@@ -11,9 +10,7 @@
 
 📫 <b> How to reach me? </b>
 
-  <img src="https://i.ibb.co/nns9jQL/typing-anime.gif">
-
-  :envelope:<a href="mailto:kate.c.soliven@gmail.com">Email</a> or my :briefcase:<a href="https://www.katedevdc.com">Portfolio</a>.
+  :envelope:<a href="mailto:katedevdc@gmail.com">Email</a> or my :briefcase:<a href="https://www.katedevdc.com">Portfolio</a>.
 
 - :tv: <b>Favorite shows:</b> :crystal_ball:Legion :computer:Mr. Robot and :ghost: Penny Dreadful
 - :sparkler: <b>Hobbies:</b> :octocat:Coding :ramen:Cooking :video_game:Gaming :art:Graphic design :computer:PC Modding :guitar:Playing music :running:Running :two_hearts:Volunteering
