@@ -15,3 +15,5 @@
 - :tv: <b>Favorite shows:</b> :crystal_ball:Legion :computer:Mr. Robot and :ghost: Penny Dreadful
 - :sparkler: <b>Hobbies:</b> :octocat:Coding :ramen:Cooking :video_game:Gaming :art:Graphic design :computer:PC Modding :guitar:Playing music :running:Running :two_hearts:Volunteering
 
+
+[![Hits](https://hits.sh/github.com/ksoliven.svg?style=for-the-badge&label=Visitors%20Today&color=ff69b4&logo=codepen)](https://hits.sh/github.com/ksoliven/)
