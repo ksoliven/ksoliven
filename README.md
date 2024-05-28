@@ -15,6 +15,9 @@ Nice to meet you!
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksoliven&langs_count=8&theme=jolly&layout=compact)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 📫 <b> How to reach me? </b>
 
   :envelope:<a href="mailto:katedevdc@gmail.com">Email</a> or my :briefcase:<a href="https://www.katedevdc.com">Portfolio</a>.
