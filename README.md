@@ -13,7 +13,7 @@ Nice to meet you!
 
 [![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksoliven&theme=jolly&rank_icon=github)](https://github.com/ksoliven/github-readme-stats)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksoliven&langs_count=8&theme=jolly&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksoliven&langs_count=10&theme=jolly&layout=compact)
 
 <!--START_SECTION:waka-->
 
