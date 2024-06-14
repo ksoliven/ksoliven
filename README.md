@@ -18,9 +18,7 @@ Nice to meet you!
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         5 mins          ██████████████████████▒░░   89.32 %
-Git          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+TypeScript   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
