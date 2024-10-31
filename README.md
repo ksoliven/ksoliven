@@ -18,9 +18,7 @@ Nice to meet you!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         44 mins         ███████████████████████░░   92.25 %
-GitIgnore file   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
