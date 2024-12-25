@@ -18,7 +18,8 @@ Nice to meet you!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML       2 hrs 18 mins   ████████████████████████▓   98.50 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
