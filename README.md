@@ -18,8 +18,7 @@ Nice to meet you!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          ████████████████▓░░░░░░░░   66.07 %
-HTML       0 secs          ████████▒░░░░░░░░░░░░░░░░   33.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
