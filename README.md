@@ -18,7 +18,9 @@ Nice to meet you!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker       2 mins          █████████████████████████   99.51 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Dockerfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
