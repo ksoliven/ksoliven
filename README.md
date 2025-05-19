@@ -18,10 +18,7 @@ Nice to meet you!
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         26 mins         ████████████████████████▓   99.13 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Dockerfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
